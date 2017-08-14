@@ -7,3 +7,5 @@
 1. add infinite scroll, pull to refresh
 2. use InAppBrowser and social message plugins
 3. customize the generated Android shell 
+
+## screenshot
